@@ -1,14 +1,8 @@
 # Wikipedia Data Extractor
 
-This repository contains a simple Python script that extracts and displays the title and introductory paragraphs from a specified Wikipedia page using web scraping techniques.
+This code extracts the data of a specific content using python which the user searches for and displays it
 
-## Features
-
-- Fetches the title of the Wikipedia page.
-- Extracts and prints the introductory paragraphs from the page.
-- Handles errors gracefully.
-
-## Prerequisites
+## Requirements
 
 Before you begin, ensure you have the following installed:
 
@@ -19,9 +13,11 @@ Before you begin, ensure you have the following installed:
 You can install the required libraries using pip:
 
 ```bash
-pip install requests beautifulsoup4
+pip install requests
 ```
-
+```bash
+pip install beautifulsoup4
+```
 Cloning this repository:
 ```bash
-git clone https://github.com/yourusername/wikipedia-data-extractor.git
+git clone https://github.com/Siddharth-Sameer-Nevgi/Wikipedia_scraper.git
